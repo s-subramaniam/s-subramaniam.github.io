@@ -4,14 +4,14 @@
 
 ---
 
-## 🛠 Technical Skills
+## Technical Skills
 * **Design:** SolidWorks, ANSYS (CFD/FEA)
 * **Programming:** Python (NumPy, Pandas), MATLAB
 * **Eligibility:** US, UK, and Australian Citizen
 
 ---
 
-## 🏎 Featured Project: Formula Student (FSAE)
+## Featured Project: Formula Student (FSAE)
 ### Aerodynamics Design & Validation
 I design and validate aerodynamic components for our electric race car. 
 
@@ -23,7 +23,7 @@ I design and validate aerodynamic components for our electric race car.
 
 ---
 
-## 📈 Experience
+## Experience
 ### IT Intern | GTS (Strike Technologies)
 *Developed data-driven tools for high-frequency trading infrastructure.*
 
@@ -32,9 +32,9 @@ I design and validate aerodynamic components for our electric race car.
 
 ---
 
-## 📂 Featured Research & Coursework
+## Featured Research & Coursework
 * **Aerospace Structures:** Analyzed stress distributions in wing spars.
 * **Machine Design:** Developed a [Name of Project] using FEA analysis.
 
 ---
-[Download My Full Resume (PDF)](link-to-your-pdf)
+[Download My Full Resume (PDF)](file:///C:/Users/samsu/OneDrive/Desktop/SAMUEL%20SUBRAMANIAM.pdf)
